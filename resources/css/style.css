@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Headings */
+
+.heading--one {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+/* links */
+
+.first--link {
+    color: aquamarine;
+    font-size: 16px;
+}
