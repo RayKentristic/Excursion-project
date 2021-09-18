@@ -36,6 +36,12 @@ body {
     font-size: 16px;
 }
 
+/* intro */
+.intro {
+    font-size: 21px;
+    color: gray;
+}
+
 /* footer */
 .footer {
     text-align: right;
